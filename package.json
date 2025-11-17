@@ -1,0 +1,20 @@
+﻿{
+  "name": "daraja-mpesa-api",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "description": "Vercel serverless API for Safaricom Daraja STK Push",
+  "main": "api/stk-push.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "vercel",
+    "serverless",
+    "mpesa",
+    "daraja",
+    "stk-push",
+    "api"
+  ]
+}
